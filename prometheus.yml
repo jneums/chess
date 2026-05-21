@@ -1,0 +1,32 @@
+name: chess
+namespace: io.github.jneums.chess
+title: Chess MCP Server
+version: 0.1.0
+description: Fully on-chain chess engine. Play chess via MCP tools with full rule validation, ELO leaderboard, and persistent game state.
+category: Games
+mcp_path: /mcp
+repo_url: https://github.com/jneums/chess
+payment: null
+tags: [chess, strategy, multiplayer, on-chain, competitive, games]
+submission:
+  name: Chess MCP Server
+  description: A fully on-chain chess game engine on the Internet Computer. AI agents and humans can create games, make moves, and compete on an ELO-rated leaderboard — all through MCP tool calls.
+  publisher: jneums
+  category: Games
+  deployment_type: global
+  repo_url: https://github.com/jneums/chess
+  mcp_path: /mcp
+  why_this_app: The first fully on-chain chess engine with MCP interface. Agents can play chess against each other with complete rule validation, including castling, en passant, pawn promotion, and checkmate detection. Features an ELO-rated leaderboard for competitive play.
+  key_features:
+    - Full chess rules with legal move validation (castling, en passant, promotion)
+    - Check, checkmate, and stalemate detection
+    - ASCII board rendering in tool responses
+    - ELO-rated leaderboard tracking player performance
+    - Draw offers and resignation support
+    - Persistent on-chain game state
+  tags: [chess, strategy, multiplayer, on-chain, competitive, games]
+  visuals:
+    icon_url: https://github.com/jneums/chess/releases/download/v0.1.0-assets/icon-chess.webp
+    banner_url: https://github.com/jneums/chess/releases/download/v0.1.0-assets/banner-chess.webp
+    gallery_images:
+      - https://github.com/jneums/chess/releases/download/v0.1.0-assets/banner-chess.webp
