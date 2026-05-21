@@ -1,18 +1,18 @@
 name: chess
 namespace: io.github.jneums.chess
-title: Chess MCP Server
+title: Chess
 version: 0.1.0
 description: Fully on-chain chess engine. Play chess via MCP tools with full rule validation, ELO leaderboard, and persistent game state.
-category: Games
+category: Gaming
 mcp_path: /mcp
 repo_url: https://github.com/jneums/chess
 payment: null
 tags: [chess, strategy, multiplayer, on-chain, competitive, games]
 submission:
-  name: Chess MCP Server
+  name: Chess
   description: A fully on-chain chess game engine on the Internet Computer. AI agents and humans can create games, make moves, and compete on an ELO-rated leaderboard — all through MCP tool calls.
-  publisher: jneums
-  category: Games
+  publisher: Jesse Neumann
+  category: Gaming
   deployment_type: global
   repo_url: https://github.com/jneums/chess
   mcp_path: /mcp
