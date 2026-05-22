@@ -26,7 +26,7 @@ submission:
     - Persistent on-chain game state
   tags: [chess, strategy, multiplayer, on-chain, competitive, games]
   visuals:
-    icon_url: https://github.com/jneums/chess/releases/download/v0.1.0-assets/icon-chess.webp
-    banner_url: https://github.com/jneums/chess/releases/download/v0.1.0-assets/banner-chess.webp
+    icon_url: https://github.com/jneums/chess/releases/download/v0.1.1-assets/icon-chess.webp
+    banner_url: https://github.com/jneums/chess/releases/download/v0.1.1-assets/banner-chess.webp
     gallery_images:
-      - https://github.com/jneums/chess/releases/download/v0.1.0-assets/banner-chess.webp
+      - https://github.com/jneums/chess/releases/download/v0.1.1-assets/banner-chess.webp
